@@ -6,11 +6,11 @@ A low-to-medium-contrast theme inspired by the colours of F.C. Barcelona. Blue i
 
 Blau comes in light and dark variants. It is developed for the Atom text editor.
 
-<!-- Project page: [http://www.protesilaos.com/blau](http://www.protesilaos.com/blau) -->
+Project page: [http://www.protesilaos.com/blau](http://www.protesilaos.com/blau)
 
-<!-- Light variant: [https://atom.io/themes/blau-syntax](https://atom.io/themes/blau-syntax)
+Light variant: [https://atom.io/themes/blau-syntax](https://atom.io/themes/blau-syntax)
 
-Dark variant: [https://atom.io/themes/blau-dark-syntax](https://atom.io/themes/blau-dark-syntax) -->
+Dark variant: [https://atom.io/themes/blau-dark-syntax](https://atom.io/themes/blau-dark-syntax)
 
 ## Screenshots
 
@@ -18,6 +18,6 @@ Dark variant: [https://atom.io/themes/blau-dark-syntax](https://atom.io/themes/b
 
 ![blau light screenshot](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_light_sample.png)
 
-<!-- ## Palette
+## Palette
 
-![blau colour scheme](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_colours.png) -->
+![blau colour scheme](https://raw.githubusercontent.com/protesilaos/blau/master/img/blau_colours.png)
