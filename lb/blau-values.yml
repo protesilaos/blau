@@ -1,18 +1,18 @@
 scheme: "Blau"
 author: "Protesilaos Stavrou (http://www.protesilaos.com)"
-base00: "131525" # dark background
-base01: "232535" # dark highlight
-base02: "3A3838" # light bg text primary
-base03: "7A7878" # light bg text secondary
-base04: "737585" # dark bg text primary
-base05: "434555" # dark bg text secondary
-base06: "EAE8E8" # light highlight
-base07: "FAF8F8" # light background
-base08: "AA1E4C" # red
+base00: "18181F" # dark background
+base01: "28282F" # dark highlight
+base02: "38383F" # light bg text primary
+base03: "68686F" # light bg text secondary
+base04: "48484F" # dark bg text secondary
+base05: "78787F" # dark bg text primary
+base06: "D8D8DF" # light highlight
+base07: "E8E8EF" # light background
+base08: "9A1E4C" # red
 base09: "BB651B" # orange
 base0A: "BB8B11" # yellow
 base0B: "3FA575" # green
 base0C: "0FA5B5" # cyan
-base0D: "1F6CB5" # blue
-base0E: "815AB5" # violet
-base0F: "B55A81" # magenta
+base0D: "1F6CA1" # blue
+base0E: "515AB5" # violet
+base0F: "814571" # magenta

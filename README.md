@@ -2,9 +2,9 @@
 
 **Project in development. More info very soon.**
 
-A low-to-medium-contrast theme inspired by the colours of F.C. Barcelona. Blue is the most prevalent accent, followed by red, and violet.
+A low-to-medium-contrast theme inspired by the colours of FC Barcelona. Blue is the most prevalent accent, followed by red, and violet.
 
-Blau comes in light and dark variants. It is developed for the Atom text editor.
+*Blau* comes in light and dark variants. It is developed for the Atom text editor.
 
 Project page: [http://www.protesilaos.com/blau](http://www.protesilaos.com/blau)
 
