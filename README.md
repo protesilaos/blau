@@ -1,8 +1,6 @@
 # Blau syntax theme
 
-**Project in development. More info very soon.**
-
-A low-to-medium-contrast theme inspired by the colours of FC Barcelona. Blue is the most prevalent accent, followed by red, and violet.
+A medium-contrast theme inspired by the colours of FC Barcelona. Blue is the most prevalent accent, followed by red, and violet.
 
 *Blau* comes in light and dark variants. It is developed for the Atom text editor.
 
