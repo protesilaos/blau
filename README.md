@@ -1,4 +1,6 @@
-# Blau syntax theme
+# Deprecated. The project is now part of [Prot16](https://github.com/protesilaos/prot16)
+
+## Blau syntax theme
 
 A medium-contrast theme inspired by the colours of FC Barcelona. Blue is the most prevalent accent, followed by red, and violet.
 
